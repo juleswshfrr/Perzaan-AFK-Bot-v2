@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TugaSMP_.aternos.me:20101",
+    "ip": "TugaSMP_.aternos.me",
     "port": 20101,
     "version": "26.2"
   },
